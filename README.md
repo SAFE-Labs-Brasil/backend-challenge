@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/97542292/149010251-c6d1d3e9-2ab9-49f9-84a8-72e7a09b51a4.png)
+
 # SAFE Labs Backend Challenge
 
 ## Presentation
